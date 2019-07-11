@@ -1,0 +1,6 @@
+2019/06/28-10:28:50.903 ce3 Reusing MANIFEST /home/aelius/.config/Min/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2019/06/28-10:28:50.903 ce3 Recovering log #3
+2019/06/28-10:28:50.933 ce3 Reusing old log /home/aelius/.config/Min/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2019/06/28-10:34:54.466 1411 Level-0 table #5: started
+2019/06/28-10:34:54.499 1411 Level-0 table #5: 987953 bytes OK
+2019/06/28-10:34:54.512 1411 Delete type=0 #3

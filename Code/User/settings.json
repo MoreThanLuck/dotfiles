@@ -1,0 +1,10 @@
+{
+    "gitlens.views.repositories.location": "gitlens",
+    "gitlens.views.fileHistory.location": "gitlens",
+    "gitlens.views.lineHistory.location": "gitlens",
+    "gitlens.views.compare.location": "gitlens",
+    "gitlens.views.search.location": "gitlens",
+    "editor.fontFamily": "Fira Code",
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "window.titleBarStyle": "custom"
+}

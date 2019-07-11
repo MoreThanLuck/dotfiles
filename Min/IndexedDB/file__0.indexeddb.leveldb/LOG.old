@@ -1,0 +1,3 @@
+2019/06/27-13:56:23.804 c97 Reusing MANIFEST /home/aelius/.config/Min/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2019/06/27-13:56:23.804 c97 Recovering log #3
+2019/06/27-13:56:23.827 c97 Reusing old log /home/aelius/.config/Min/IndexedDB/file__0.indexeddb.leveldb/000003.log 

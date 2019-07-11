@@ -1,0 +1,8 @@
+2019/06/27-13:56:23.793 c86 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/06/27-13:56:23.793 c86 Recovering log #14
+2019/06/27-13:56:23.794 c86 Level-0 table #18: started
+2019/06/27-13:56:23.798 c86 Level-0 table #18: 57778 bytes OK
+2019/06/27-13:56:23.804 c86 Delete type=0 #14
+2019/06/27-16:27:27.002 32d8 Level-0 table #21: started
+2019/06/27-16:27:27.014 32d8 Level-0 table #21: 110147 bytes OK
+2019/06/27-16:27:27.023 32d8 Delete type=0 #19

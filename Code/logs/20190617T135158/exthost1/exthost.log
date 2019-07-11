@@ -1,0 +1,82 @@
+[2019-06-17 13:52:01.488] [exthost] [info] extension host started
+[2019-06-17 13:52:01.509] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-17 13:52:01.509] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-17 13:52:01.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-17 13:52:01.513] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-17 13:52:01.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-17 13:52:01.528] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-17 13:52:01.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-17 13:52:01.635] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-17 13:52:01.641] [exthost] [info] eager extensions activated
+[2019-06-17 14:02:30.965] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":false,"activationEvent":"*"}
+[2019-06-17 14:02:30.965] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-06-17 14:02:59.019] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"activationEvent":"*"}
+[2019-06-17 14:02:59.020] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-17 14:04:53.858] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"activationEvent":"*"}
+[2019-06-17 14:04:53.858] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/eamodio.gitlens-9.8.2/dist/extension
+[2019-06-17 14:04:54.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-06-17 14:04:54.049] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-06-17 14:05:18.399] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-17 14:05:18.399] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-06-17 14:05:18.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-17 14:05:18.406] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-06-17 14:05:18.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-17 14:05:18.474] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-17 14:06:31.355] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"activationEvent":"*"}
+[2019-06-17 14:06:31.355] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-06-17 14:07:50.500] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":false,"activationEvent":"*"}
+[2019-06-17 14:07:50.500] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-06-17 14:07:51.806] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":false,"activationEvent":"*"}
+[2019-06-17 14:07:51.806] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-06-17 14:08:08.389] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize {"startup":false,"activationEvent":"*"}
+[2019-06-17 14:08:08.389] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/kamikillerto.vscode-colorize-0.8.10/out/src/extension
+[2019-06-17 16:09:13.131] [exthost] [info] extension host started
+[2019-06-17 16:09:13.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.139] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-17 16:09:13.142] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.142] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-17 16:09:13.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.156] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-17 16:09:13.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.236] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-17 16:09:13.240] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.240] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-17 16:09:13.270] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.270] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/eamodio.gitlens-9.8.2/dist/extension
+[2019-06-17 16:09:13.371] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.371] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-06-17 16:09:13.504] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.504] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-06-17 16:09:13.505] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.505] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-06-17 16:09:13.507] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.507] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-06-17 16:09:13.548] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:09:13.548] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/kamikillerto.vscode-colorize-0.8.10/out/src/extension
+[2019-06-17 16:09:13.577] [exthost] [info] eager extensions activated
+[2019-06-17 16:10:11.983] [exthost] [info] extension host started
+[2019-06-17 16:10:11.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:11.996] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-17 16:10:11.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:11.998] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-17 16:10:12.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:12.002] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-17 16:10:12.020] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:12.020] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-17 16:10:12.022] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:12.022] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-17 16:10:12.028] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:12.028] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/eamodio.gitlens-9.8.2/dist/extension
+[2019-06-17 16:10:12.050] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:12.050] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-06-17 16:10:12.092] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:12.092] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-06-17 16:10:12.093] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:12.093] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-06-17 16:10:12.094] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:12.094] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-06-17 16:10:12.116] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:10:12.116] [exthost] [info] ExtensionService#loadCommonJSModule /home/aelius/.vscode/extensions/kamikillerto.vscode-colorize-0.8.10/out/src/extension
+[2019-06-17 16:10:12.130] [exthost] [info] eager extensions activated
+[2019-06-17 16:10:13.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-06-17 16:10:13.683] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/9/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
