@@ -33,4 +33,6 @@ map <leader>f :Goyo \| set linebreak<CR>
 
 
 " Automatically deletes all trailing whitespace on save.
-	autocmd BufWritePre * %s/\s\+$//e	
+	autocmd BufWritePre * %s/\s\+$//e
+
+map <F6> :setlocal spell! spelllang=en_us<CR>
