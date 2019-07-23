@@ -1,0 +1,32 @@
+[2019-07-18 15:53:00.680] [sharedprocess] [info] main {"machineId":"4b7a4231f2be293b6515fde36d4a6ae90b91b0f0024ef625ce5471b021dc09fd"}
+[2019-07-18 15:53:02.467] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2019-07-18 15:53:02.468] [sharedprocess] [info] Installing extension: kamikillerto.vscode-colorize
+[2019-07-18 15:53:02.468] [sharedprocess] [info] Installing extension: liviuschera.noctis
+[2019-07-18 15:53:02.468] [sharedprocess] [info] Installing extension: mgmcdermott.vscode-language-babel
+[2019-07-18 15:53:02.468] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2019-07-18 15:53:02.971] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/89324a57-b8a8-44fe-a6e9-9ee0d23ec419
+[2019-07-18 15:53:03.001] [sharedprocess] [info] Extracted extension to /home/aelius/.vscode/extensions/.zhuangtongfa.material-theme-2.26.0: zhuangtongfa.material-theme
+[2019-07-18 15:53:03.002] [sharedprocess] [info] Renamed to /home/aelius/.vscode/extensions/zhuangtongfa.material-theme-2.26.0
+[2019-07-18 15:53:03.002] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2019-07-18 15:53:03.027] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2019-07-18 15:53:03.037] [sharedprocess] [info] Downloaded extension: mgmcdermott.vscode-language-babel /tmp/80368951-0371-4ab1-9172-d8cadece817f
+[2019-07-18 15:53:03.081] [sharedprocess] [info] Extracted extension to /home/aelius/.vscode/extensions/.mgmcdermott.vscode-language-babel-0.0.23: mgmcdermott.vscode-language-babel
+[2019-07-18 15:53:03.081] [sharedprocess] [info] Renamed to /home/aelius/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.23
+[2019-07-18 15:53:03.082] [sharedprocess] [info] Installation completed. mgmcdermott.vscode-language-babel
+[2019-07-18 15:53:03.102] [sharedprocess] [info] Extensions installed successfully: mgmcdermott.vscode-language-babel
+[2019-07-18 15:53:03.150] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /tmp/029366cf-99e8-469b-8634-ea4922a2748e
+[2019-07-18 15:53:03.487] [sharedprocess] [info] Downloaded extension: liviuschera.noctis /tmp/c9610029-d6a1-4028-a927-5aa48c427cfd
+[2019-07-18 15:53:03.537] [sharedprocess] [info] Extracted extension to /home/aelius/.vscode/extensions/.eamodio.gitlens-9.8.5: eamodio.gitlens
+[2019-07-18 15:53:03.537] [sharedprocess] [info] Renamed to /home/aelius/.vscode/extensions/eamodio.gitlens-9.8.5
+[2019-07-18 15:53:03.552] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2019-07-18 15:53:03.591] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2019-07-18 15:53:03.636] [sharedprocess] [info] Extracted extension to /home/aelius/.vscode/extensions/.liviuschera.noctis-9.11.0: liviuschera.noctis
+[2019-07-18 15:53:03.636] [sharedprocess] [info] Renamed to /home/aelius/.vscode/extensions/liviuschera.noctis-9.11.0
+[2019-07-18 15:53:03.637] [sharedprocess] [info] Installation completed. liviuschera.noctis
+[2019-07-18 15:53:03.639] [sharedprocess] [info] Downloaded extension: kamikillerto.vscode-colorize /tmp/041601bf-5adb-4e8f-8c44-06e9f5f99eaf
+[2019-07-18 15:53:03.665] [sharedprocess] [info] Extensions installed successfully: liviuschera.noctis
+[2019-07-18 15:53:03.780] [sharedprocess] [info] Extracted extension to /home/aelius/.vscode/extensions/.kamikillerto.vscode-colorize-0.8.11: kamikillerto.vscode-colorize
+[2019-07-18 15:53:03.781] [sharedprocess] [info] Renamed to /home/aelius/.vscode/extensions/kamikillerto.vscode-colorize-0.8.11
+[2019-07-18 15:53:03.781] [sharedprocess] [info] Installation completed. kamikillerto.vscode-colorize
+[2019-07-18 15:53:03.802] [sharedprocess] [info] Extensions installed successfully: kamikillerto.vscode-colorize
+[2019-07-18 15:53:40.691] [sharedprocess] [info] Starting to clean up unused language packs.

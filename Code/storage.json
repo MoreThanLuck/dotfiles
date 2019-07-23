@@ -2,7 +2,8 @@
     "telemetry.machineId": "4b7a4231f2be293b6515fde36d4a6ae90b91b0f0024ef625ce5471b021dc09fd",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/aelius/dev/portfolio-site"
+            "file:///home/aelius/dev/my_projects/KifuReview",
+            "file:///home/aelius/dev/my_projects/portfolio"
         ],
         "files2": []
     },
@@ -1377,5 +1378,5 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/aelius/dev"
+    "pickerWorkingDir": "/home/aelius/dev/my_projects"
 }

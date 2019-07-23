@@ -1,0 +1,7 @@
+[2019-07-18 15:53:46.808] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/aelius/dev/my_projects/KifuReview/.vscode'
+[2019-07-18 15:53:46.808] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/aelius/dev/my_projects/KifuReview/.vscode'
+[2019-07-18 17:02:11.372] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/aelius/dev/my_projects/portfolio/.vscode'
+[2019-07-18 17:02:11.372] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/aelius/dev/my_projects/portfolio/.vscode'
+[2019-07-18 18:32:39.577] [renderer1] [error] Failed to execute git
+[2019-07-18 18:32:49.689] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/aelius/dev/my_projects/KifuReview/.vscode'
+[2019-07-18 18:32:49.690] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/aelius/dev/my_projects/KifuReview/.vscode'

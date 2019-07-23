@@ -1,0 +1,12 @@
+[Info  - 5:54:15 PM] ESLint server stopped.
+[Info  - 5:54:15 PM] ESLint server running in node v10.11.0
+[Info  - 5:54:15 PM] ESLint server is running.
+[Info  - 5:54:16 PM] 
+Failed to load the ESLint library for the document /home/aelius/dev/my_projects/portfolio/themes/hugo-strata-theme/static/js/main.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder portfolio
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder portfolio by executing the 'Disable ESLint' command.
+[Info  - 6:32:48 PM] ESLint server stopped.
